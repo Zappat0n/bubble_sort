@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(arr)
   pending_items = arr.length - 1
 
